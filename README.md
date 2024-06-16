@@ -1,0 +1,1 @@
+# inhritence.c
